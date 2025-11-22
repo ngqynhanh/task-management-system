@@ -13,7 +13,7 @@ Follow the steps below to run the system.
 
 ### 1. Navigate to the backend folder
 ```bash
-cd task-manager-system-main/task-manager
+cd Your_drive:\Your_folder\task-manager-system-main/task-manager
 ```
 ### 2. Run the backend
 ```bash
@@ -28,7 +28,7 @@ http://localhost:8080
 
 ### 1. Navigate to the frontend folder
 ```bash
-cd TaskManager_FE-main/TaskManager_FE-main
+cd Your_drive:\Your_folder\TaskManager_FE-main/TaskManager_FE-main
 ```
 ### 2. Install dependencies
 ```bash
